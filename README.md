@@ -1,2 +1,2 @@
 # Cloud-desk
-一个辅助学习类应用《云上书桌》的官网
+The official website of an educational app called "CloudDesk" – a learning assistance application.
